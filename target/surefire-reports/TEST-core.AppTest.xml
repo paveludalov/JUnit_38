@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite failures="0" time="0.011" errors="0" skipped="1" tests="12" name="core.AppTest">
+<testsuite failures="0" time="0.008" errors="0" skipped="1" tests="12" name="core.AppTest">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.7.0_80.jdk/Contents/Home/jre/lib"/>
@@ -62,18 +62,18 @@
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase time="0.006" classname="core.AppTest" name="test_06_AssertSame_Ignored"/>
+  <testcase time="0.005" classname="core.AppTest" name="test_06_AssertSame_Ignored"/>
   <testcase time="0" classname="core.AppTest" name="test_01_AssertEquals_Positive"/>
-  <testcase time="0.001" classname="core.AppTest" name="test_01_AssertEquals_Positive1"/>
+  <testcase time="0" classname="core.AppTest" name="test_01_AssertEquals_Positive1"/>
   <testcase time="0.001" classname="core.AppTest" name="test_07_AssertFalse_Positive">
     <skipped/>
   </testcase>
   <testcase time="0" classname="core.AppTest" name="test_04_AssertSame_Positive"/>
   <testcase time="0" classname="core.AppTest" name="test_03_AssertEquals_Ignored"/>
   <testcase time="0.001" classname="core.AppTest" name="test_05_AssertSame_Negative"/>
-  <testcase time="0.001" classname="core.AppTest" name="test_02_AssertEquals_Negative"/>
+  <testcase time="0" classname="core.AppTest" name="test_02_AssertEquals_Negative"/>
   <testcase time="0" classname="core.AppTest" name="test_02_AssertEquals_Negative1"/>
-  <testcase time="0.001" classname="core.AppTest" name="test_09_AssertTrue_Positive"/>
+  <testcase time="0" classname="core.AppTest" name="test_09_AssertTrue_Positive"/>
   <testcase time="0" classname="core.AppTest" name="test_10_AssertTrue_Negative"/>
-  <testcase time="0" classname="core.AppTest" name="test_08_AssertFalse_Negative"/>
+  <testcase time="0.001" classname="core.AppTest" name="test_08_AssertFalse_Negative"/>
 </testsuite>
